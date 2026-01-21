@@ -1,2 +1,2 @@
-# medicamentos
-En este repositorio se encuentra el dataset de 5 pastillas comerciales en Colombia
+# Dataset medicamentos
+En este repositorio se encuentra parte del dataset de 5 pastillas comerciales en Colombia, para revisar el dataset completo con más de 10.000 imágenes consulte https://zenodo.org/records/18176706token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZiNTU5NWJhLTFiNGMtNDVmMi04YTA0LTExMmZlNzc4YTg0YyIsImRhdGEiOnt9LCJyYW5kb20iOiJmY2UxZTY2YTU1MzA2MWIyYzJhMTVmODdiZjQ5NzIyNiJ9.U09Es8VvAYON6raZM8AmLb7ZL-E241pu3jjLkgotf-qPfnReH_tfrXLom4RqI84ksksVFviP2meG2SxZL5649g
